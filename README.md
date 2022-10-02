@@ -9,7 +9,7 @@ Run the main.py file
 ## Inspiration
 Having been reported that teachers in Singapore are overworked, and having less than ideal work-life balance, we sought to think of how we could lighten their load. Setting questions, test papers and practices for their students are some of the mentally strenuous work that they do, hence we planned on assisting them on that.
 
-## What _(we conceptualised)_ that it would do
+## What _(we conceptualised)_ it would do
 It would be able to generate questions based on certain topics that were requested through Natural Language Generation (NLG), and in the process, it would be able to categorise the topics of questions that is fed to it. 
 
 ## What we realistically could manage
